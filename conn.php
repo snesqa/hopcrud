@@ -1,7 +1,7 @@
 <?php 
 	const DB_HOST = 'mysql52.unoeuro.com';
 	const DB_USER = 'snezana_dk';
-	const DB_PASS = '***';
+	const DB_PASS = 'koden er i rapporten på crud siden';
 	const DB_NAME = 'snezana_dk_db';
 	
   /*const DB_HOST = 'localhost';
